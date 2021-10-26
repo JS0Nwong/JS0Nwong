@@ -1,9 +1,9 @@
----
+
 <h1 align = "center">Hi there, I'm Jason 👋</h1>
 I'm currently a student in New York City pursing a major in Computer Science and a minor in Media Studies! I love creating modern and fluid websites with HTML/CSS and JavaScript.
 
 <br/>
----
+
 <h1 align = "center">About Me</h1>
 
 <ul>
@@ -11,6 +11,9 @@ I'm currently a student in New York City pursing a major in Computer Science and
   <li>💪 I’m currently working on developing my skills in JavaScript and React</li>
   <li>🤓 Fun fact: I built my first website in highschool as a part of a competition</li>
 </ul>
+
+<br/>
+
 <h1 align = "center">Statistics</h1>
 
 <p align = "center">
