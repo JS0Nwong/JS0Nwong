@@ -14,7 +14,6 @@ I'm currently a student in New York City pursing a major in Computer Science and
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JS0Nwong&layout=compact&show_icons=true&theme=tokyonight" height = "200">
 </p>
 ---
-
 <!--
 
 Here are some ideas to get you started:
