@@ -11,7 +11,7 @@ I'm currently a student in New York City pursing a major in Computer Science and
 ---
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=JS0Nwong&count_private=true&show_icons=true&theme=tokyonight"> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JS0Nwong&layout=compact&show_icons=true&theme=tokyonight" height = "400">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JS0Nwong&layout=compact&show_icons=true&theme=tokyonight" height = "40">
 </p>
 ---
 
