@@ -1,6 +1,6 @@
 
 <h1 align = "center">Hi there, I'm Jason 👋</h1>
-I'm currently a student in New York City pursing a major in Computer Science and a minor in Media Studies! I love creating modern and fluid websites with HTML/CSS and JavaScript.
+I'm developer based in New York City with a major in Computer Science and a minor in Media Studies! I love creating modern and fluid websites with HTML/CSS and JavaScript.
 
 <br/>
 
