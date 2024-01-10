@@ -7,8 +7,8 @@ I'm developer based in New York City with a major in Computer Science and a mino
 <h1 align = "center">About Me</h1>
 
 <ul>
-  <li>👨‍🎓 I’m currently learning C++ and JavaScript in my courses!</li>
-  <li>💪 I’m currently working on developing my skills in JavaScript and React</li>
+  <li>👨‍🎓 I’m currently learning TypeScript!</li>
+  <li>💪 I’m currently working on developing my skills in JavaScript and React through projects.</li>
   <li>🤓 Fun fact: I built my first website in highschool as a part of a competition</li>
 </ul>
 
